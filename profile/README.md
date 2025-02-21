@@ -1,4 +1,4 @@
-<img src="https://www.deeprobotics.cn/public/static/robot/images/logo_.png" alt="Deep Robotics" style="width: 25%;">
+<img src="https://www.deeprobotics.cn/public/static/robot/images/logo_.png" alt="Deep Robotics" width="300">
 
 [![bilibili](https://img.shields.io/badge/bilibili-f87598?style=flat&logo=bilibili&logoColor=white&labelColor=f87598&color=f87598)](https://space.bilibili.com/22477177)
 [![linkedin](https://img.shields.io/badge/Linkedin-1465bd?style=flat&logoColor=white&labelColor=1465bd&color=1465bd)](https://cn.linkedin.com/company/deep-robotics)
