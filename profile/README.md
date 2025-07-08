@@ -18,7 +18,7 @@ The company has always adhered to independent innovation, with core technologies
 
   <tr>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/URDF_model"> URDF_model </a></td>
-    <td> Robot's URDF model.
+    <td> Robot's URDF, MJCF and USD models.
     </td>
   </tr>
 
