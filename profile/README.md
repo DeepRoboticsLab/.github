@@ -74,12 +74,4 @@ The company has always adhered to independent innovation, with core technologies
     </td>
   </tr>
 
-  <tr>
-    <td rowspan="2" align="center"><a href="https://github.com/DeepRoboticsLab/Lite3_Model_Control"> Lite3_Model_Control </a></td>
-    <td><a href="https://github.com/DeepRoboticsLab/Lite3_Model_Control/tree/main/basic_level_sim"> basic_level_sim </a>
-    <br> A basic simulation project implemented based on the Jueying Lite3 <a href="https://github.com/DeepRoboticsLab/Lite3_MotionSDK">MotionSDK</a> and the <a href="https://gazebosim.org/">Gazebo</a> simulation platform.</td>
-  </tr>
-    <td><a href="https://github.com/DeepRoboticsLab/Lite3_Model_Control/tree/main/high_level_sim"> high_level_sim </a>
-    <br> A high level simulation project ported and optimized based on the Ascend open-source project <a href="https://gitee.com/HUAWEI-ASCEND/quadruped-robot/tree/master/model-control">model-control/quadruped-robot</a>, and implemented on the <a href="https://gazebosim.org/">Gazebo</a> simulation platform.</td>
-
-</table>
+  </table>
