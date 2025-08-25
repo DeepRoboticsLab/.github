@@ -39,9 +39,9 @@ The company has always adhered to independent innovation, with core technologies
   </tr>
 
   <tr>
-    <td align="center"><a href="https://github.com/DeepRoboticsLab/Lite3_rl_training"> Lite3_rl_training </a></td>
-    <td> A Learning-based locomotion controller for quadruped robots. 
-    <br> Includes all components needed for training and hardware deployment on DeepRobotics <b><i>Lite3</b></i>.
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/rl_training"> rl_training </a></td>
+    <td> A Learning-based locomotion controller for Deep Robotics robots. 
+    <br> Currently supporting <b><i>Lite3</b></i> and <b><i>M20</b></i>.
     </td>
   </tr>
   
