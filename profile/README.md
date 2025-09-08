@@ -23,14 +23,6 @@ The company has always adhered to independent innovation, with core technologies
   </tr>
 
   <tr>
-    <td align="center"><a href="https://github.com/DeepRoboticsLab/Lite3_MotionSDK"> Lite3_MotionSDK </a></td>
-    <td> SDK for the Jueying <b><i>Lite3</b></i> motion control algorithm.
-    <br> Get the data of each joint and send joint control command to control the robot to move, provides control parameters to control the motion of joints.
-    <br> Supports <a href="https://github.com/DeepRoboticsLab/Lite3_MotionSDK">C++</a> and <a href="https://github.com/DeepRoboticsLab/Lite3_MotionSDK/tree/add_python">Python</a>.
-    </td>
-  </tr>
-
-  <tr>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/Lite3_ROS"> Lite3_ROS </a></td>
     <td> Conversion between ROS and UDP messages.
     <br> Implement data transmission between the Jueying <b><i>Lite3</b></i> perception host and the motion host or app via the UDP protocol.
