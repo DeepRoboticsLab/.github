@@ -6,8 +6,8 @@
 [![X](https://img.shields.io/badge/Twitter-black?style=flat&logo=X&labelColor=black)](https://x.com/DeepRobotics_CN)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://discord.gg/KRAnmSnFW3)
 
-DEEPRobotics is a national high-tech enterprise that focuses on the R&D, production, sales and service of humanoid robots, quadruped robots, and core components.
-The company has always adhered to independent innovation, with core technologies such as advanced control algorithms, intelligent environmental perception, and artificial intelligence algorithms at the forefront of international development.
+DEEPRobotics is an international high-tech enterprise that focuses on the R&D, production, sales and service of humanoid robots, quadruped robots, and core components.
+We consistently maintain our commitment to independent innovation, having developed core technologies including advanced locomotion algorithms, intelligent environmental perception systems, and high-power motor systems that position us at the state of the art of robotics.
 
 ### Projects
 
