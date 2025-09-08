@@ -4,6 +4,7 @@
 [![linkedin](https://img.shields.io/badge/Linkedin-1465bd?style=flat&logoColor=white&labelColor=1465bd&color=1465bd)](https://cn.linkedin.com/company/deep-robotics)
 [![YouTube](https://img.shields.io/badge/YouTube-%23ff1a47?style=flat&logo=Youtube&labelColor=%23ff1a47)](https://www.youtube.com/@deeprobotics8601)
 [![X](https://img.shields.io/badge/Twitter-black?style=flat&logo=X&labelColor=black)](https://x.com/DeepRobotics_CN)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://discord.gg/KRAnmSnFW3)
 
 DEEPRobotics is a national high-tech enterprise that focuses on the R&D, production, sales and service of humanoid robots, quadruped robots, and core components.
 The company has always adhered to independent innovation, with core technologies such as advanced control algorithms, intelligent environmental perception, and artificial intelligence algorithms at the forefront of international development.
