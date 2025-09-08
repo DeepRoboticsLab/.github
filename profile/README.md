@@ -19,7 +19,7 @@ The company has always adhered to independent innovation, with core technologies
 
   <tr>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/URDF_model"> URDF_model </a></td>
-    <td> Robot's URDF, MJCF and USD models.
+    <td> Robot's URDF, MJCF and USD models. Currently supporting <b><i>Lite3</b></i>, <b><i>X30</b></i> and <b><i>M20</b></i>.
     </td>
   </tr>
 
