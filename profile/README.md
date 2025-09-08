@@ -24,14 +24,6 @@ The company has always adhered to independent innovation, with core technologies
   </tr>
 
   <tr>
-    <td align="center"><a href="https://github.com/DeepRoboticsLab/Lite3_ROS"> Lite3_ROS </a></td>
-    <td> Conversion between ROS and UDP messages.
-    <br> Implement data transmission between the Jueying <b><i>Lite3</b></i> perception host and the motion host or app via the UDP protocol.
-    <br> <a href="https://github.com/DeepRoboticsLab/Lite3_ROS"> ROS-Ubuntu20 </a>,<a href="https://github.com/DeepRoboticsLab/Lite3_ROS/tree/ubuntu18"> ROS-Ubuntu18 </a>,<a href="https://github.com/DeepRoboticsLab/Lite3_ROS/tree/ros2-foxy"> ROS2-foxy-Ubuntu20 </a>
-    </td>
-  </tr>
-
-  <tr>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/rl_training"> rl_training </a></td>
     <td> A Learning-based locomotion controller for Deep Robotics robots. 
     <br> Currently supporting <b><i>Lite3</b></i> and <b><i>M20</b></i>.
@@ -44,6 +36,13 @@ The company has always adhered to independent innovation, with core technologies
     <br> The methods for deploying and validating the policy in the simulation environment or on the <b><i>Lite3</b></i>.
     </td>
   </tr>
+
+  <tr>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/gamepad"> gamepad </a></td>
+    <td> Listening for physical button trigger events on the gamepad via UDP communication on the remote host.
+    <br> Real-time acquisition of physical button trigger information from the gamepad side.
+    </td>
+  </tr>
   
   <tr>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/x30_motion_sdk"> x30_motion_sdk </a></td>
@@ -52,13 +51,16 @@ The company has always adhered to independent innovation, with core technologies
     <br> Supports C++ and Python.
     </td>
   </tr>
-  
+
   <tr>
-    <td align="center"><a href="https://github.com/DeepRoboticsLab/gamepad"> gamepad </a></td>
-    <td> Listening for physical button trigger events on the gamepad via UDP communication on the remote host.
-    <br> Real-time acquisition of physical button trigger information from the gamepad side.
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/Lite3_ROS"> Lite3_ROS </a></td>
+    <td> Conversion between ROS and UDP messages.
+    <br> Implement data transmission between the Jueying <b><i>Lite3</b></i> perception host and the motion host or app via the UDP protocol.
+    <br> <a href="https://github.com/DeepRoboticsLab/Lite3_ROS"> ROS-Ubuntu20 </a>,<a href="https://github.com/DeepRoboticsLab/Lite3_ROS/tree/ubuntu18"> ROS-Ubuntu18 </a>,<a href="https://github.com/DeepRoboticsLab/Lite3_ROS/tree/ros2-foxy"> ROS2-foxy-Ubuntu20 </a>
     </td>
   </tr>
+  
+  
 
   <tr>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/Deep_Motor_SDK"> Deep_Motor_SDK </a></td>
