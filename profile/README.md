@@ -32,8 +32,7 @@ We consistently maintain our commitment to independent innovation, having develo
   
   <tr>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/Lite3_rl_deploy"> Lite3_rl_deploy </a></td>
-    <td> A policy trained by RL.
-    <br> The methods for deploying and validating the policy in the simulation environment or on the <b><i>Lite3</b></i>.
+    <br> RL sim-to-sim and sim-to-real code for <b><i>Lite3</b></i>.
     </td>
   </tr>
 
