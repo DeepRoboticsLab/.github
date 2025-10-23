@@ -42,14 +42,6 @@ We consistently maintain our commitment to independent innovation, having develo
     <br> Real-time acquisition of physical button trigger information from the gamepad side.
     </td>
   </tr>
-  
-  <tr>
-    <td align="center"><a href="https://github.com/DeepRoboticsLab/x30_motion_sdk"> x30_motion_sdk </a></td>
-    <td> SDK for the Jueying <b><i>X30</b></i> motion control algorithm.  
-    <br> Provides control parameters to control the motion of joints.
-    <br> Supports C++ and Python.
-    </td>
-  </tr>
 
   <tr>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/Lite3_ROS"> Lite3_ROS </a></td>
