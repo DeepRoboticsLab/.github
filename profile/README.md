@@ -18,7 +18,7 @@ We consistently maintain our commitment to independent innovation, having develo
   </tr>
 
   <tr>
-    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep_robotics_model"> URDF_model </a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep_robotics_model"> deep_robotics_model </a></td>
     <td> Robot's URDF, MJCF and USD models. Currently supporting <b><i>Lite3</b></i>, <b><i>X30</b></i> and <b><i>M20</b></i>.
     </td>
   </tr>
