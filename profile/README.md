@@ -37,6 +37,12 @@ We consistently maintain our commitment to independent innovation, having develo
   </tr>
 
   <tr>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/sdk_deploy"> sdk_deploy </a></td>
+    <td> RL sim-to-sim and sim-to-real code for DEEP Robotics robots. Currently supporting <b><i>M20</b></i>.
+    </td>
+  </tr>
+
+  <tr>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/gamepad"> gamepad </a></td>
     <td> Listening for physical button trigger events on the gamepad via UDP communication on the remote host.
     <br> Real-time acquisition of physical button trigger information from the gamepad side.
