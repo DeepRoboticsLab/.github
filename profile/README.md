@@ -43,6 +43,12 @@ We consistently maintain our commitment to independent innovation, having develo
   </tr>
 
   <tr>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/fast-livo2-deep-robotics"> FAST-LIVO2 </a></td>
+    <td> Hardware extension for Lite3 Robot. Reproduce FAST-LIVO2 as an example.
+    </td>
+  </tr>
+
+  <tr>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/gamepad"> gamepad </a></td>
     <td> Listening for physical button trigger events on the gamepad via UDP communication on the remote host.
     <br> Real-time acquisition of physical button trigger information from the gamepad side.
@@ -56,8 +62,7 @@ We consistently maintain our commitment to independent innovation, having develo
     <br> <a href="https://github.com/DeepRoboticsLab/Lite3_ROS"> ROS-Ubuntu20 </a>,<a href="https://github.com/DeepRoboticsLab/Lite3_ROS/tree/ubuntu18"> ROS-Ubuntu18 </a>,<a href="https://github.com/DeepRoboticsLab/Lite3_ROS/tree/ros2-foxy"> ROS2-foxy-Ubuntu20 </a>
     </td>
   </tr>
-  
-  
+
 
   <tr>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/Deep_Motor_SDK"> Deep_Motor_SDK </a></td>
