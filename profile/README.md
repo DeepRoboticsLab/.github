@@ -32,13 +32,13 @@ We consistently maintain our commitment to independent innovation, having develo
   
   <tr>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/Lite3_rl_deploy"> Lite3_rl_deploy </a></td>
-    <td> RL sim-to-sim and sim-to-real code for <b><i>Lite3</b></i>.
+    <td> RL sim-to-sim and sim-to-real code for <b><i>Lite3</b></i>. UDP Version.
     </td>
   </tr>
 
   <tr>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/sdk_deploy"> sdk_deploy </a></td>
-    <td> RL sim-to-sim and sim-to-real code for DEEP Robotics robots. Currently supporting <b><i>M20</b></i>.
+    <td> RL sim-to-sim and sim-to-real code for DEEP Robotics robots. Currently supporting <b><i>M20</b></i>. ROS2 Version.
     </td>
   </tr>
 
