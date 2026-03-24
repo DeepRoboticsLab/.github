@@ -49,6 +49,12 @@ We consistently maintain our commitment to independent innovation, having develo
   </tr>
 
   <tr>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/lightning-lm-deep-robotics"> Lightning-LM </a></td>
+    <td> M20 lidar secondary development. Reproduce Lightning-LM as an example.
+    </td>
+  </tr>
+
+  <tr>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/gamepad"> gamepad </a></td>
     <td> Listening for physical button trigger events on the gamepad via UDP communication on the remote host.
     <br> Real-time acquisition of physical button trigger information from the gamepad side.
