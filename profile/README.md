@@ -9,18 +9,43 @@
 DEEPRobotics is an international high-tech enterprise that focuses on the R&D, production, sales and service of humanoid robots, quadruped robots, and core components.
 We consistently maintain our commitment to independent innovation, having developed core technologies including advanced locomotion algorithms, intelligent environmental perception systems, and high-power motor systems that position us at the state of the art of robotics.
 
+### Org Stats
+
+<!-- Auto-refreshing org-wide totals rendered by github-readme-stats (third-party) -->
+<p>
+  <a href="https://github.com/DeepRoboticsLab">
+    <img alt="DeepRoboticsLab GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DeepRoboticsLab&show_icons=true&count_private=false&include_all_commits=true&hide_title=false&card_width=480" />
+  </a>
+  <a href="https://github.com/DeepRoboticsLab">
+    <img alt="DeepRoboticsLab top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepRoboticsLab&layout=compact&card_width=320" />
+  </a>
+</p>
+
+<!-- Org-wide aggregate badges (shields.io dynamic, refreshed automatically) -->
+<p>
+  <img alt="Followers" src="https://img.shields.io/github/followers/DeepRoboticsLab?style=flat&label=Org%20Followers&logo=github" />
+  <img alt="Public repos" src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Forgs%2FDeepRoboticsLab&logo=github" />
+  <img alt="Total stars" src="https://img.shields.io/github/stars/DeepRoboticsLab?style=flat&label=Total%20Stars&logo=github" />
+</p>
+
 ### Projects
 
 <table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
   <tr>
     <th> Title </th>
     <th> Description </th>
+    <th> Stars </th>
+    <th> Issues </th>
+    <th> PRs </th>
   </tr>
 
   <tr>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/deep_robotics_model"> deep_robotics_model </a></td>
     <td> Robot's URDF, MJCF and USD models. Currently supporting <b><i>Lite3</b></i>, <b><i>X30</b></i> and <b><i>M20</b></i>.
     </td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep_robotics_model/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/deep_robotics_model?style=flat&label=%E2%98%85"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep_robotics_model/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/deep_robotics_model?style=flat&label=open"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep_robotics_model/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/deep_robotics_model?style=flat&label=open"></a></td>
   </tr>
 
   <tr>
@@ -28,30 +53,45 @@ We consistently maintain our commitment to independent innovation, having develo
     <td> A Learning-based locomotion controller for Deep Robotics robots. 
     <br> Currently supporting <b><i>Lite3</b></i> and <b><i>M20</b></i>.
     </td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/rl_training/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/rl_training?style=flat&label=%E2%98%85"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/rl_training/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/rl_training?style=flat&label=open"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/rl_training/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/rl_training?style=flat&label=open"></a></td>
   </tr>
   
   <tr>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/Lite3_rl_deploy"> Lite3_rl_deploy </a></td>
     <td> RL sim-to-sim and sim-to-real code for <b><i>Lite3</b></i>. UDP Version.
     </td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/Lite3_rl_deploy/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/Lite3_rl_deploy?style=flat&label=%E2%98%85"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/Lite3_rl_deploy/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/Lite3_rl_deploy?style=flat&label=open"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/Lite3_rl_deploy/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/Lite3_rl_deploy?style=flat&label=open"></a></td>
   </tr>
 
   <tr>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/sdk_deploy"> sdk_deploy </a></td>
     <td> RL sim-to-sim and sim-to-real code for DEEP Robotics robots. Currently supporting <b><i>M20</b></i>. ROS2 Version.
     </td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/sdk_deploy/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/sdk_deploy?style=flat&label=%E2%98%85"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/sdk_deploy/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/sdk_deploy?style=flat&label=open"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/sdk_deploy/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/sdk_deploy?style=flat&label=open"></a></td>
   </tr>
 
   <tr>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/fast-livo2-deep-robotics"> FAST-LIVO2 </a></td>
     <td> Hardware extension for Lite3 Robot. Reproduce FAST-LIVO2 as an example.
     </td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/fast-livo2-deep-robotics/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/fast-livo2-deep-robotics?style=flat&label=%E2%98%85"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/fast-livo2-deep-robotics/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/fast-livo2-deep-robotics?style=flat&label=open"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/fast-livo2-deep-robotics/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/fast-livo2-deep-robotics?style=flat&label=open"></a></td>
   </tr>
 
   <tr>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/lightning-lm-deep-robotics"> Lightning-LM </a></td>
     <td> M20 lidar secondary development. Reproduce Lightning-LM as an example.
     </td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/lightning-lm-deep-robotics/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/lightning-lm-deep-robotics?style=flat&label=%E2%98%85"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/lightning-lm-deep-robotics/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/lightning-lm-deep-robotics?style=flat&label=open"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/lightning-lm-deep-robotics/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/lightning-lm-deep-robotics?style=flat&label=open"></a></td>
   </tr>
 
   <tr>
@@ -59,6 +99,9 @@ We consistently maintain our commitment to independent innovation, having develo
     <td> Listening for physical button trigger events on the gamepad via UDP communication on the remote host.
     <br> Real-time acquisition of physical button trigger information from the gamepad side.
     </td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/gamepad/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/gamepad?style=flat&label=%E2%98%85"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/gamepad/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/gamepad?style=flat&label=open"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/gamepad/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/gamepad?style=flat&label=open"></a></td>
   </tr>
 
   <tr>
@@ -67,6 +110,9 @@ We consistently maintain our commitment to independent innovation, having develo
     <br> Implement data transmission between the Jueying <b><i>Lite3</b></i> perception host and the motion host or app via the UDP protocol.
     <br> <a href="https://github.com/DeepRoboticsLab/Lite3_ROS"> ROS-Ubuntu20 </a>,<a href="https://github.com/DeepRoboticsLab/Lite3_ROS/tree/ubuntu18"> ROS-Ubuntu18 </a>,<a href="https://github.com/DeepRoboticsLab/Lite3_ROS/tree/ros2-foxy"> ROS2-foxy-Ubuntu20 </a>
     </td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/Lite3_ROS/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/Lite3_ROS?style=flat&label=%E2%98%85"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/Lite3_ROS/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/Lite3_ROS?style=flat&label=open"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/Lite3_ROS/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/Lite3_ROS?style=flat&label=open"></a></td>
   </tr>
 
 
@@ -75,6 +121,9 @@ We consistently maintain our commitment to independent innovation, having develo
     <td> The SDK provides CAN communication, joint enablement, and joint control functions for <b><i>J60</b></i>. 
     <br> Includes examples for <b><i>single-joint</b></i>, <b><i>multi-joint control</b></i>, and <b><i>joint debugging tool software</b></i>.
     </td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/Deep_Motor_SDK/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/Deep_Motor_SDK?style=flat&label=%E2%98%85"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/Deep_Motor_SDK/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/Deep_Motor_SDK?style=flat&label=open"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/Deep_Motor_SDK/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/Deep_Motor_SDK?style=flat&label=open"></a></td>
   </tr>
 
   </table>
