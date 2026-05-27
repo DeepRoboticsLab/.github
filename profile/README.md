@@ -12,14 +12,15 @@ We consistently maintain our commitment to independent innovation, having develo
 ### Org Stats
 
 <!-- Auto-refreshing org-wide totals rendered by github-readme-stats (third-party) -->
-<p>
+<!-- Both cards pinned to the same height so they align cleanly side-by-side on GitHub. -->
+<div align="center">
   <a href="https://github.com/DeepRoboticsLab">
-    <img alt="DeepRoboticsLab GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DeepRoboticsLab&show_icons=true&count_private=false&include_all_commits=true&hide_title=false&card_width=480" />
+    <img height="180" alt="DeepRoboticsLab GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DeepRoboticsLab&show_icons=true&count_private=false&include_all_commits=true&hide_border=true&theme=default&cache_seconds=86400" />
   </a>
   <a href="https://github.com/DeepRoboticsLab">
-    <img alt="DeepRoboticsLab top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepRoboticsLab&layout=compact&card_width=320" />
+    <img height="180" alt="DeepRoboticsLab top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepRoboticsLab&layout=compact&hide_border=true&theme=default&cache_seconds=86400" />
   </a>
-</p>
+</div>
 
 <!-- Org-wide aggregate badges (shields.io dynamic, refreshed automatically) -->
 <p>
