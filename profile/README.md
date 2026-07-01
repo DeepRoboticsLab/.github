@@ -99,4 +99,24 @@ We consistently maintain our commitment to independent innovation, having develo
     <td align="center"><a href="https://github.com/DeepRoboticsLab/Deep_Motor_SDK/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/Deep_Motor_SDK?style=flat&label=open&cacheSeconds=86400"></a></td>
   </tr>
 
+  <tr>
+    <td align="left" rowspan="2" valign="middle"> Robot SDK </td>
+    <td align="left"><a href="https://github.com/DeepRoboticsLab/m20-android-sdk"> M20 Android SDK </a></td>
+    <td> The SDK provides robot connection, state management, remote control, and controller input integration for building custom control apps for <b><i>Lynx M20</b></i>. 
+    <br> Includes a <b><i>simple demo</b></i> for <b><i>robot connection and control</b></i>.
+    </td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/m20-android-sdk/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/m20-android-sdk?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/m20-android-sdk/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/m20-android-sdk?style=flat&label=open&cacheSeconds=86400"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/m20-android-sdk/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/m20-android-sdk?style=flat&label=open&cacheSeconds=86400"></a></td>
+  </tr>
+
+  <tr>
+    <td align="left"><a href="https://github.com/DeepRoboticsLab/robotserver_sdk"> Robotserver SDK (C++) </a></td>
+    <td> This SDK provides interfaces for controlling and monitoring the navigation tasks of <b><i>Jueying X30</b></i>.
+    </td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/robotserver_sdk/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/robotserver_sdk?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/robotserver_sdk/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/robotserver_sdk?style=flat&label=open&cacheSeconds=86400"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/robotserver_sdk/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/robotserver_sdk?style=flat&label=open&cacheSeconds=86400"></a></td>
+  </tr>
+
 </table>
