@@ -33,7 +33,7 @@ We consistently maintain our commitment to independent innovation, having develo
   <tr>
     <td align="left"> Robot&nbsp;Models </td>
     <td align="left"><a href="https://github.com/DeepRoboticsLab/deep_robotics_model"> Deep Robotics Model </a></td>
-    <td> Robot's URDF, MJCF and USD models. Currently supporting <b><i>Lite3</b></i>, <b><i>X30</b></i> and <b><i>M20</b></i>.
+    <td> Robot's URDF, MJCF and USD models. Currently supporting <b><i>Lite3</b></i>, <b><i>X30</b></i>, <b><i>M20</b></i>, <b><i>DR02_Pro</b></i>, <b><i>DR02_Standard</b></i> and <b><i>M20_Piper</b></i>.
     </td>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/deep_robotics_model/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/deep_robotics_model?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/deep_robotics_model/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/deep_robotics_model?style=flat&label=open&cacheSeconds=86400"></a></td>
