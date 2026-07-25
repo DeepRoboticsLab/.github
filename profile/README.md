@@ -119,4 +119,14 @@ We consistently maintain our commitment to independent innovation, having develo
     <td align="center"><a href="https://github.com/DeepRoboticsLab/robotserver_sdk/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/robotserver_sdk?style=flat&label=open&cacheSeconds=86400"></a></td>
   </tr>
 
+  <tr>
+    <td align="left"> Patrol </td>
+    <td align="left"><a href="https://github.com/DeepRoboticsLab/station-openapi-devkit"> Station OpenAPI Java SDK </a></td>
+    <td> A Java SDK for integrating Station OpenAPI with JDK 17 and Spring Boot 3 applications. Provides HTTP APIs, token and signature authentication, streaming file downloads, and optional RocketMQ message integration.
+    </td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/station-openapi-devkit/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/station-openapi-devkit?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/station-openapi-devkit/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/station-openapi-devkit?style=flat&label=open&cacheSeconds=86400"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/station-openapi-devkit/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/station-openapi-devkit?style=flat&label=open&cacheSeconds=86400"></a></td>
+  </tr>
+
 </table>
