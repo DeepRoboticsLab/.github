@@ -150,7 +150,7 @@ We consistently maintain our commitment to independent innovation, having develo
   </tr>
 
   <tr>
-    <td align="left"><a href="https://github.com/DeepRoboticsLab/deep-robotics-sdk2"> Deep Robotics SDK </a></td>
+    <td align="left"><a href="https://github.com/DeepRoboticsLab/deep-robotics-sdk2"> Deep Robotics SDK2 </a></td>
     <td> ROS 2 packages and Topic examples for supported Deep Robotics products. Currently supporting <b><i>DR02 Pro</b></i>.
     </td>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-sdk2/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/deep-robotics-sdk2?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
