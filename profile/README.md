@@ -41,7 +41,17 @@ We consistently maintain our commitment to independent innovation, having develo
   </tr>
 
   <tr>
-    <td align="left" rowspan="3" valign="middle"> Locomotion </td>
+    <td align="left"> Messages </td>
+    <td align="left"><a href="https://github.com/DeepRoboticsLab/deep-robotics-msg"> Deep Robotics Message </a></td>
+    <td> Public ROS 2 message and service interfaces for exchanging robot state, control commands, and peripheral data.
+    </td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-msg/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/deep-robotics-msg?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-msg/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/deep-robotics-msg?style=flat&label=open&cacheSeconds=86400"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-msg/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/deep-robotics-msg?style=flat&label=open&cacheSeconds=86400"></a></td>
+  </tr>
+
+  <tr>
+    <td align="left" rowspan="2" valign="middle"> Locomotion </td>
     <td align="left"><a href="https://github.com/DeepRoboticsLab/rl_training"> RL Training </a></td>
     <td> A Learning-based locomotion controller for Deep Robotics robots. 
     <br> Currently supporting <b><i>Lite3</b></i> and <b><i>M20</b></i>.
@@ -52,21 +62,22 @@ We consistently maintain our commitment to independent innovation, having develo
   </tr>
   
   <tr>
-    <td align="left"><a href="https://github.com/DeepRoboticsLab/Lite3_rl_deploy"> Lite3 RL Deploy </a></td>
-    <td> RL sim-to-sim and sim-to-real code for <b><i>Lite3</b></i>. UDP Version.
+    <td align="left"><a href="https://github.com/DeepRoboticsLab/deep-robotics-simulation"> Deep Robotics Simulation </a></td>
+    <td> MuJoCo-based simulation environments for Deep Robotics products. Currently supporting <b><i>DR02 Pro</b></i>.
     </td>
-    <td align="center"><a href="https://github.com/DeepRoboticsLab/Lite3_rl_deploy/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/Lite3_rl_deploy?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
-    <td align="center"><a href="https://github.com/DeepRoboticsLab/Lite3_rl_deploy/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/Lite3_rl_deploy?style=flat&label=open&cacheSeconds=86400"></a></td>
-    <td align="center"><a href="https://github.com/DeepRoboticsLab/Lite3_rl_deploy/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/Lite3_rl_deploy?style=flat&label=open&cacheSeconds=86400"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-simulation/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/deep-robotics-simulation?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-simulation/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/deep-robotics-simulation?style=flat&label=open&cacheSeconds=86400"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-simulation/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/deep-robotics-simulation?style=flat&label=open&cacheSeconds=86400"></a></td>
   </tr>
 
   <tr>
-    <td align="left"><a href="https://github.com/DeepRoboticsLab/sdk_deploy"> SDK Deploy </a></td>
-    <td> RL sim-to-sim and sim-to-real code for DEEP Robotics robots. Currently supporting <b><i>M20</b></i>. ROS2 Version.
+    <td align="left"> Manipulation </td>
+    <td align="left"><a href="https://github.com/DeepRoboticsLab/deep-robotics-teleoperate"> Deep Robotics Teleoperate </a></td>
+    <td> ROS 2 teleoperation package for controlling the <b><i>DR02 Pro</b></i> with PICO headsets and controllers.
     </td>
-    <td align="center"><a href="https://github.com/DeepRoboticsLab/sdk_deploy/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/sdk_deploy?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
-    <td align="center"><a href="https://github.com/DeepRoboticsLab/sdk_deploy/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/sdk_deploy?style=flat&label=open&cacheSeconds=86400"></a></td>
-    <td align="center"><a href="https://github.com/DeepRoboticsLab/sdk_deploy/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/sdk_deploy?style=flat&label=open&cacheSeconds=86400"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-teleoperate/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/deep-robotics-teleoperate?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-teleoperate/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/deep-robotics-teleoperate?style=flat&label=open&cacheSeconds=86400"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-teleoperate/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/deep-robotics-teleoperate?style=flat&label=open&cacheSeconds=86400"></a></td>
   </tr>
 
   <tr>
@@ -100,7 +111,7 @@ We consistently maintain our commitment to independent innovation, having develo
   </tr>
 
   <tr>
-    <td align="left" rowspan="2" valign="middle"> Robot SDK </td>
+    <td align="left" rowspan="2" valign="middle"> Software SDK </td>
     <td align="left"><a href="https://github.com/DeepRoboticsLab/m20-android-sdk"> M20 Android SDK </a></td>
     <td> The SDK provides robot connection, state management, remote control, and controller input integration for building custom control apps for <b><i>Lynx M20</b></i>. 
     <br> Includes a <b><i>simple demo</b></i> for <b><i>robot connection and control</b></i>.
@@ -117,6 +128,34 @@ We consistently maintain our commitment to independent innovation, having develo
     <td align="center"><a href="https://github.com/DeepRoboticsLab/robotserver_sdk/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/robotserver_sdk?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/robotserver_sdk/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/robotserver_sdk?style=flat&label=open&cacheSeconds=86400"></a></td>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/robotserver_sdk/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/robotserver_sdk?style=flat&label=open&cacheSeconds=86400"></a></td>
+  </tr>
+
+  <tr>
+    <td align="left" rowspan="3" valign="middle"> Algorithm SDK </td>
+    <td align="left"><a href="https://github.com/DeepRoboticsLab/Lite3_rl_deploy"> Lite3 RL Deploy </a></td>
+    <td> RL sim-to-sim and sim-to-real code for <b><i>Lite3</b></i>. UDP Version.
+    </td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/Lite3_rl_deploy/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/Lite3_rl_deploy?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/Lite3_rl_deploy/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/Lite3_rl_deploy?style=flat&label=open&cacheSeconds=86400"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/Lite3_rl_deploy/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/Lite3_rl_deploy?style=flat&label=open&cacheSeconds=86400"></a></td>
+  </tr>
+
+  <tr>
+    <td align="left"><a href="https://github.com/DeepRoboticsLab/sdk_deploy"> SDK Deploy </a></td>
+    <td> RL sim-to-sim and sim-to-real code for DEEP Robotics robots. Currently supporting <b><i>M20</b></i>. ROS2 Version.
+    </td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/sdk_deploy/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/sdk_deploy?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/sdk_deploy/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/sdk_deploy?style=flat&label=open&cacheSeconds=86400"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/sdk_deploy/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/sdk_deploy?style=flat&label=open&cacheSeconds=86400"></a></td>
+  </tr>
+
+  <tr>
+    <td align="left"><a href="https://github.com/DeepRoboticsLab/deep-robotics-sdk2"> Deep Robotics SDK </a></td>
+    <td> ROS 2 packages and Topic examples for supported Deep Robotics products. Currently supporting <b><i>DR02 Pro</b></i>.
+    </td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-sdk2/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/deep-robotics-sdk2?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-sdk2/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/deep-robotics-sdk2?style=flat&label=open&cacheSeconds=86400"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-sdk2/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/deep-robotics-sdk2?style=flat&label=open&cacheSeconds=86400"></a></td>
   </tr>
 
   <tr>
