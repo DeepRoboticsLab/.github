@@ -51,7 +51,7 @@ We consistently maintain our commitment to independent innovation, having develo
   </tr>
 
   <tr>
-    <td align="left" rowspan="2" valign="middle"> Locomotion </td>
+    <td align="left" rowspan="4" valign="middle"> Locomotion </td>
     <td align="left"><a href="https://github.com/DeepRoboticsLab/rl_training"> RL Training </a></td>
     <td> A Learning-based locomotion controller for Deep Robotics robots. 
     <br> Currently supporting <b><i>Lite3</b></i> and <b><i>M20</b></i>.
@@ -68,6 +68,24 @@ We consistently maintain our commitment to independent innovation, having develo
     <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-simulation/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/deep-robotics-simulation?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-simulation/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/deep-robotics-simulation?style=flat&label=open&cacheSeconds=86400"></a></td>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-simulation/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/deep-robotics-simulation?style=flat&label=open&cacheSeconds=86400"></a></td>
+  </tr>
+
+  <tr>
+    <td align="left"><a href="https://github.com/DeepRoboticsLab/deep-robotics-retarget"> Deep Robotics Retarget </a></td>
+    <td> Inverse kinematics toolkit for retargeting human motion to humanoid robots, with MuJoCo visualization. Currently supporting <b><i>DR02 Pro</b></i>.
+    </td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-retarget/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/deep-robotics-retarget?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-retarget/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/deep-robotics-retarget?style=flat&label=open&cacheSeconds=86400"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-retarget/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/deep-robotics-retarget?style=flat&label=open&cacheSeconds=86400"></a></td>
+  </tr>
+
+  <tr>
+    <td align="left"><a href="https://github.com/DeepRoboticsLab/deep-robotics-mimic"> Deep Robotics Mimic </a></td>
+    <td> Isaac Lab-based motion tracking policy training and evaluation for <b><i>DR02 Pro</b></i>.
+    </td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-mimic/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/deep-robotics-mimic?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-mimic/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/deep-robotics-mimic?style=flat&label=open&cacheSeconds=86400"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-mimic/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/deep-robotics-mimic?style=flat&label=open&cacheSeconds=86400"></a></td>
   </tr>
 
   <tr>
