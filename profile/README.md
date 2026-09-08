@@ -54,7 +54,7 @@ We consistently maintain our commitment to independent innovation, having develo
     <td align="left" rowspan="4" valign="middle"> Locomotion </td>
     <td align="left"><a href="https://github.com/DeepRoboticsLab/rl_training"> RL Training </a></td>
     <td> A Learning-based locomotion controller for Deep Robotics robots. 
-    <br> Currently supporting <b><i>Lite3</b></i> and <b><i>M20</b></i>.
+    <br> Currently supporting <b><i>Lite3</b></i>, <b><i>DR02</b></i> and <b><i>M20</b></i>.
     </td>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/rl_training/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/rl_training?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/rl_training/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/rl_training?style=flat&label=open&cacheSeconds=86400"></a></td>
