@@ -20,6 +20,8 @@ We consistently maintain our commitment to independent innovation, having develo
 
 ### Projects
 
+<!-- Empty separator rows keep content on odd rows to avoid GitHub's zebra striping.
+     Category rowspans include these zero-height rows (2 * project count - 1). -->
 <table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
   <tr>
     <th align="left" width="150"> Category </th>
@@ -30,6 +32,7 @@ We consistently maintain our commitment to independent innovation, having develo
     <th> PRs </th>
   </tr>
 
+  <tr aria-hidden="true"></tr>
   <tr>
     <td align="left"> Robot&nbsp;Models </td>
     <td align="left"><a href="https://github.com/DeepRoboticsLab/deep_robotics_model"> Deep Robotics Model </a></td>
@@ -40,6 +43,7 @@ We consistently maintain our commitment to independent innovation, having develo
     <td align="center"><a href="https://github.com/DeepRoboticsLab/deep_robotics_model/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/deep_robotics_model?style=flat&label=open&cacheSeconds=86400"></a></td>
   </tr>
 
+  <tr aria-hidden="true"></tr>
   <tr>
     <td align="left"> Messages </td>
     <td align="left"><a href="https://github.com/DeepRoboticsLab/deep-robotics-msg"> Deep Robotics Message </a></td>
@@ -50,8 +54,9 @@ We consistently maintain our commitment to independent innovation, having develo
     <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-msg/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/deep-robotics-msg?style=flat&label=open&cacheSeconds=86400"></a></td>
   </tr>
 
+  <tr aria-hidden="true"></tr>
   <tr>
-    <td align="left" rowspan="4" valign="middle"> Locomotion </td>
+    <td align="left" rowspan="7" valign="middle"> Locomotion </td>
     <td align="left"><a href="https://github.com/DeepRoboticsLab/rl_training"> RL Training </a></td>
     <td> A Learning-based locomotion controller for Deep Robotics robots. 
     <br> Currently supporting <b><i>Lite3</b></i>, <b><i>DR02</b></i> and <b><i>M20</b></i>.
@@ -61,6 +66,7 @@ We consistently maintain our commitment to independent innovation, having develo
     <td align="center"><a href="https://github.com/DeepRoboticsLab/rl_training/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/rl_training?style=flat&label=open&cacheSeconds=86400"></a></td>
   </tr>
   
+  <tr aria-hidden="true"></tr>
   <tr>
     <td align="left"><a href="https://github.com/DeepRoboticsLab/deep-robotics-simulation"> Deep Robotics Simulation </a></td>
     <td> MuJoCo-based simulation environments for Deep Robotics products. Currently supporting <b><i>DR02 Pro</b></i>.
@@ -70,6 +76,7 @@ We consistently maintain our commitment to independent innovation, having develo
     <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-simulation/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/deep-robotics-simulation?style=flat&label=open&cacheSeconds=86400"></a></td>
   </tr>
 
+  <tr aria-hidden="true"></tr>
   <tr>
     <td align="left"><a href="https://github.com/DeepRoboticsLab/deep-robotics-retarget"> Deep Robotics Retarget </a></td>
     <td> Inverse kinematics toolkit for retargeting human motion to humanoid robots, with MuJoCo visualization. Currently supporting <b><i>DR02 Pro</b></i>.
@@ -79,6 +86,7 @@ We consistently maintain our commitment to independent innovation, having develo
     <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-retarget/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/deep-robotics-retarget?style=flat&label=open&cacheSeconds=86400"></a></td>
   </tr>
 
+  <tr aria-hidden="true"></tr>
   <tr>
     <td align="left"><a href="https://github.com/DeepRoboticsLab/deep-robotics-mimic"> Deep Robotics Mimic </a></td>
     <td> Isaac Lab-based motion tracking policy training and evaluation for <b><i>DR02 Pro</b></i>.
@@ -88,6 +96,7 @@ We consistently maintain our commitment to independent innovation, having develo
     <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-mimic/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/deep-robotics-mimic?style=flat&label=open&cacheSeconds=86400"></a></td>
   </tr>
 
+  <tr aria-hidden="true"></tr>
   <tr>
     <td align="left"> Manipulation </td>
     <td align="left"><a href="https://github.com/DeepRoboticsLab/deep-robotics-teleoperate"> Deep Robotics Teleoperate </a></td>
@@ -98,8 +107,9 @@ We consistently maintain our commitment to independent innovation, having develo
     <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-teleoperate/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/deep-robotics-teleoperate?style=flat&label=open&cacheSeconds=86400"></a></td>
   </tr>
 
+  <tr aria-hidden="true"></tr>
   <tr>
-    <td align="left" rowspan="2" valign="middle"> Perception </td>
+    <td align="left" rowspan="3" valign="middle"> Perception </td>
     <td align="left"><a href="https://github.com/DeepRoboticsLab/fast-livo2-deep-robotics"> FAST LIVO2 </a></td>
     <td> Hardware extension for Lite3 Robot. Reproduce FAST-LIVO2 as an example.
     </td>
@@ -108,6 +118,7 @@ We consistently maintain our commitment to independent innovation, having develo
     <td align="center"><a href="https://github.com/DeepRoboticsLab/fast-livo2-deep-robotics/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/fast-livo2-deep-robotics?style=flat&label=open&cacheSeconds=86400"></a></td>
   </tr>
 
+  <tr aria-hidden="true"></tr>
   <tr>
     <td align="left"><a href="https://github.com/DeepRoboticsLab/lightning-lm-deep-robotics"> Lightning LM </a></td>
     <td> M20 lidar secondary development. Reproduce Lightning-LM as an example.
@@ -117,6 +128,7 @@ We consistently maintain our commitment to independent innovation, having develo
     <td align="center"><a href="https://github.com/DeepRoboticsLab/lightning-lm-deep-robotics/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/lightning-lm-deep-robotics?style=flat&label=open&cacheSeconds=86400"></a></td>
   </tr>
 
+  <tr aria-hidden="true"></tr>
   <tr>
     <td align="left"> Motor&nbsp;SDK </td>
     <td align="left"><a href="https://github.com/DeepRoboticsLab/Deep_Motor_SDK"> Deep Motor SDK </a></td>
@@ -128,8 +140,9 @@ We consistently maintain our commitment to independent innovation, having develo
     <td align="center"><a href="https://github.com/DeepRoboticsLab/Deep_Motor_SDK/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/Deep_Motor_SDK?style=flat&label=open&cacheSeconds=86400"></a></td>
   </tr>
 
+  <tr aria-hidden="true"></tr>
   <tr>
-    <td align="left" rowspan="2" valign="middle"> Software SDK </td>
+    <td align="left" rowspan="3" valign="middle"> Software SDK </td>
     <td align="left"><a href="https://github.com/DeepRoboticsLab/m20-android-sdk"> M20 Android SDK </a></td>
     <td> The SDK provides robot connection, state management, remote control, and controller input integration for building custom control apps for <b><i>Lynx M20</b></i>. 
     <br> Includes a <b><i>simple demo</b></i> for <b><i>robot connection and control</b></i>.
@@ -139,6 +152,7 @@ We consistently maintain our commitment to independent innovation, having develo
     <td align="center"><a href="https://github.com/DeepRoboticsLab/m20-android-sdk/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/m20-android-sdk?style=flat&label=open&cacheSeconds=86400"></a></td>
   </tr>
 
+  <tr aria-hidden="true"></tr>
   <tr>
     <td align="left"><a href="https://github.com/DeepRoboticsLab/robotserver_sdk"> Robotserver SDK (C++) </a></td>
     <td> This SDK provides interfaces for controlling and monitoring the navigation tasks of <b><i>Jueying X30</b></i>.
@@ -148,8 +162,9 @@ We consistently maintain our commitment to independent innovation, having develo
     <td align="center"><a href="https://github.com/DeepRoboticsLab/robotserver_sdk/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/robotserver_sdk?style=flat&label=open&cacheSeconds=86400"></a></td>
   </tr>
 
+  <tr aria-hidden="true"></tr>
   <tr>
-    <td align="left" rowspan="3" valign="middle"> Algorithm SDK </td>
+    <td align="left" rowspan="5" valign="middle"> Algorithm SDK </td>
     <td align="left"><a href="https://github.com/DeepRoboticsLab/Lite3_rl_deploy"> Lite3 RL Deploy </a></td>
     <td> RL sim-to-sim and sim-to-real code for <b><i>Lite3</b></i>. UDP Version.
     </td>
@@ -158,6 +173,7 @@ We consistently maintain our commitment to independent innovation, having develo
     <td align="center"><a href="https://github.com/DeepRoboticsLab/Lite3_rl_deploy/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/Lite3_rl_deploy?style=flat&label=open&cacheSeconds=86400"></a></td>
   </tr>
 
+  <tr aria-hidden="true"></tr>
   <tr>
     <td align="left"><a href="https://github.com/DeepRoboticsLab/sdk_deploy"> SDK Deploy </a></td>
     <td> RL sim-to-sim and sim-to-real code for DEEP Robotics robots. Currently supporting <b><i>M20/M20 Pro</b></i> and <b><i>Lite3 Venture</b></i>. ROS2 Version.
@@ -167,6 +183,7 @@ We consistently maintain our commitment to independent innovation, having develo
     <td align="center"><a href="https://github.com/DeepRoboticsLab/sdk_deploy/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/sdk_deploy?style=flat&label=open&cacheSeconds=86400"></a></td>
   </tr>
 
+  <tr aria-hidden="true"></tr>
   <tr>
     <td align="left"><a href="https://github.com/DeepRoboticsLab/deep-robotics-sdk2"> Deep Robotics SDK2 </a></td>
     <td> ROS 2 packages and Topic examples for supported Deep Robotics products. Currently supporting <b><i>DR02 Pro</b></i>.
@@ -176,6 +193,7 @@ We consistently maintain our commitment to independent innovation, having develo
     <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-sdk2/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/deep-robotics-sdk2?style=flat&label=open&cacheSeconds=86400"></a></td>
   </tr>
 
+  <tr aria-hidden="true"></tr>
   <tr>
     <td align="left"> Patrol </td>
     <td align="left"><a href="https://github.com/DeepRoboticsLab/station-openapi-devkit"> Station OpenAPI Java SDK </a></td>
