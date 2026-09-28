@@ -36,7 +36,7 @@ We consistently maintain our commitment to independent innovation, having develo
   <tr>
     <td align="left"> Robot&nbsp;Models </td>
     <td align="left"><a href="https://github.com/DeepRoboticsLab/deep_robotics_model"> Deep Robotics Model </a></td>
-    <td> Robot's URDF, MJCF and USD models. Currently supporting <b><i>Lite3</b></i>, <b><i>X30</b></i>, <b><i>M20</b></i>, <b><i>M20S</b></i>, <b><i>DR02_Pro</b></i>, <b><i>DR02_Standard</b></i> and <b><i>M20_Piper</b></i>.
+    <td> Robot's URDF, MJCF and USD models. Currently supporting <b><i>Lite3</b></i>, <b><i>X30</b></i>, <b><i>M20</b></i>, <b><i>M20S</b></i>, <b><i>DR02_Pro</b></i>, <b><i>DR02_Standard</b></i>, <b><i>M20_Piper</b></i> and <b><i>S10</b></i>.
     </td>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/deep_robotics_model/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/deep_robotics_model?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/deep_robotics_model/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/deep_robotics_model?style=flat&label=open&cacheSeconds=86400"></a></td>
@@ -59,7 +59,7 @@ We consistently maintain our commitment to independent innovation, having develo
     <td align="left" rowspan="7" valign="middle"> Locomotion </td>
     <td align="left"><a href="https://github.com/DeepRoboticsLab/rl_training"> RL Training </a></td>
     <td> A Learning-based locomotion controller for Deep Robotics robots. 
-    <br> Currently supporting <b><i>Lite3</b></i>, <b><i>DR02</b></i> and <b><i>M20</b></i>.
+    <br> Currently supporting <b><i>Lite3</b></i>, <b><i>DR02</b></i>, <b><i>M20</b></i> and <b><i>S10</b></i>.
     </td>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/rl_training/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/rl_training?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/rl_training/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/rl_training?style=flat&label=open&cacheSeconds=86400"></a></td>
@@ -176,7 +176,7 @@ We consistently maintain our commitment to independent innovation, having develo
   <tr aria-hidden="true"></tr>
   <tr>
     <td align="left"><a href="https://github.com/DeepRoboticsLab/sdk_deploy"> SDK Deploy </a></td>
-    <td> RL sim-to-sim and sim-to-real code for DEEP Robotics robots. Currently supporting <b><i>M20/M20 Pro</b></i> and <b><i>Lite3 Venture</b></i>. ROS2 Version.
+    <td> RL sim-to-sim and sim-to-real code for DEEP Robotics robots. Currently supporting <b><i>M20/M20 Pro</b></i>, <b><i>S10</b></i> and <b><i>Lite3 Venture</b></i>. ROS2 Version.
     </td>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/sdk_deploy/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/sdk_deploy?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/sdk_deploy/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/sdk_deploy?style=flat&label=open&cacheSeconds=86400"></a></td>
