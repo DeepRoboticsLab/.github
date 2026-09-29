@@ -204,8 +204,14 @@ We consistently maintain our commitment to independent innovation, having develo
     <td align="center"><a href="https://github.com/DeepRoboticsLab/station-openapi-devkit/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/station-openapi-devkit?style=flat&label=open&cacheSeconds=86400"></a></td>
   </tr>
 
+  <tr aria-hidden="true"></tr>
+  <tr>
+    <td align="left"> Open Source </td>
+    <td align="left"><a href="https://github.com/DeepRoboticsLab/deep-research"> deep-research </a></td>
+    <td> Community research and secondary development built on DEEP Robotics products. </td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-research/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/deep-research?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-research/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/deep-research?style=flat&label=open&cacheSeconds=86400"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-research/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/deep-research?style=flat&label=open&cacheSeconds=86400"></a></td>
+  </tr>
+
 </table>
-
-### Open Source
-
-[deep-research](https://github.com/DeepRoboticsLab/deep-research) — Community research and secondary development built on DEEP Robotics products.
