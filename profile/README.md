@@ -208,8 +208,4 @@ We consistently maintain our commitment to independent innovation, having develo
 
 ### Open Source
 
-Community research and secondary development built on DEEP Robotics products.
-
-| Repository | Description | Stars | Issues | PRs |
-| --- | --- | --- | --- | --- |
-| [deep-research](https://github.com/DeepRoboticsLab/deep-research) | A curated directory of external projects for DEEP Robotics products, covering navigation, perception, locomotion, simulation, and robot applications. | [![Stars](https://img.shields.io/github/stars/DeepRoboticsLab/deep-research?style=flat&label=%E2%98%85&cacheSeconds=86400)](https://github.com/DeepRoboticsLab/deep-research/stargazers) | [![Issues](https://img.shields.io/github/issues/DeepRoboticsLab/deep-research?style=flat&label=open&cacheSeconds=86400)](https://github.com/DeepRoboticsLab/deep-research/issues) | [![PRs](https://img.shields.io/github/issues-pr/DeepRoboticsLab/deep-research?style=flat&label=open&cacheSeconds=86400)](https://github.com/DeepRoboticsLab/deep-research/pulls) |
+[deep-research](https://github.com/DeepRoboticsLab/deep-research) — Community research and secondary development built on DEEP Robotics products.
