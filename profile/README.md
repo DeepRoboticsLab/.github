@@ -1,13 +1,16 @@
-<img src="https://www.deeprobotics.cn/public/static/robot/images/logo_.png" alt="Deep Robotics" width="300">
+<img src="../deeprobotics-white.png" alt="Deep Robotics" width="300">
 
 [![bilibili](https://img.shields.io/badge/bilibili-f87598?style=flat&logo=bilibili&logoColor=white&labelColor=f87598&color=f87598)](https://space.bilibili.com/22477177)
 [![linkedin](https://img.shields.io/badge/Linkedin-1465bd?style=flat&logoColor=white&labelColor=1465bd&color=1465bd)](https://cn.linkedin.com/company/deep-robotics)
 [![YouTube](https://img.shields.io/badge/YouTube-%23ff1a47?style=flat&logo=Youtube&labelColor=%23ff1a47)](https://www.youtube.com/@deeprobotics8601)
 [![X](https://img.shields.io/badge/Twitter-black?style=flat&logo=X&labelColor=black)](https://x.com/DeepRobotics_CN)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://discord.gg/gdM9mQutC8)
+[![Developer Center](https://img.shields.io/badge/Developer%20Center-0078D4?style=flat)](https://developer.deeprobotics.cn/)
 
 DEEPRobotics is an international high-tech enterprise that focuses on the R&D, production, sales and service of humanoid robots, quadruped robots, and core components.
 We consistently maintain our commitment to independent innovation, having developed core technologies including advanced locomotion algorithms, intelligent environmental perception systems, and high-power motor systems that position us at the state of the art of robotics.
+
+Visit our new [Developer Center](https://developer.deeprobotics.cn/) to get started developing with Deep Robotics robots.
 
 ### Org Stats
 
