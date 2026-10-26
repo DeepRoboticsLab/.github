@@ -39,7 +39,7 @@ Visit our new [Developer Center](https://developer.deeprobotics.cn/) to get star
   <tr>
     <td align="left"> Robot&nbsp;Models </td>
     <td align="left"><a href="https://github.com/DeepRoboticsLab/deep_robotics_model"> Deep Robotics Model </a></td>
-    <td> Robot's URDF, MJCF and USD models. Currently supporting <b><i>Lite3</b></i>, <b><i>X30</b></i>, <b><i>M20</b></i>, <b><i>M20S</b></i>, <b><i>DR02_Pro</b></i>, <b><i>DR02_Standard</b></i> and <b><i>M20_Piper</b></i>.
+    <td> Robot's URDF, MJCF and USD models. Currently supporting <b><i>Lite3</b></i>, <b><i>X30</b></i>, <b><i>M20</b></i>, <b><i>M20S</b></i>, <b><i>DR02_Pro</b></i>, <b><i>DR02_Standard</b></i>, <b><i>M20_Piper</b></i> and <b><i>S10</b></i>.
     </td>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/deep_robotics_model/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/deep_robotics_model?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/deep_robotics_model/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/deep_robotics_model?style=flat&label=open&cacheSeconds=86400"></a></td>
@@ -62,7 +62,7 @@ Visit our new [Developer Center](https://developer.deeprobotics.cn/) to get star
     <td align="left" rowspan="7" valign="middle"> Locomotion </td>
     <td align="left"><a href="https://github.com/DeepRoboticsLab/rl_training"> RL Training </a></td>
     <td> A Learning-based locomotion controller for Deep Robotics robots. 
-    <br> Currently supporting <b><i>Lite3</b></i>, <b><i>DR02</b></i> and <b><i>M20</b></i>.
+    <br> Currently supporting <b><i>Lite3</b></i>, <b><i>DR02</b></i>, <b><i>M20</b></i>, <b><i>M20S</b></i> and <b><i>S10</b></i>.
     </td>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/rl_training/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/rl_training?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/rl_training/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/rl_training?style=flat&label=open&cacheSeconds=86400"></a></td>
@@ -114,7 +114,7 @@ Visit our new [Developer Center](https://developer.deeprobotics.cn/) to get star
   <tr>
     <td align="left" rowspan="3" valign="middle"> Perception </td>
     <td align="left"><a href="https://github.com/DeepRoboticsLab/fast-livo2-deep-robotics"> FAST LIVO2 </a></td>
-    <td> Hardware extension for Lite3 Robot. Reproduce FAST-LIVO2 as an example.
+    <td> Hardware extension for <b><i>Lite3</b></i> Robot. Reproduce FAST-LIVO2 as an example.
     </td>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/fast-livo2-deep-robotics/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/fast-livo2-deep-robotics?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/fast-livo2-deep-robotics/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/fast-livo2-deep-robotics?style=flat&label=open&cacheSeconds=86400"></a></td>
@@ -124,7 +124,7 @@ Visit our new [Developer Center](https://developer.deeprobotics.cn/) to get star
   <tr aria-hidden="true"></tr>
   <tr>
     <td align="left"><a href="https://github.com/DeepRoboticsLab/lightning-lm-deep-robotics"> Lightning LM </a></td>
-    <td> M20 lidar secondary development. Reproduce Lightning-LM as an example.
+    <td> <b><i>M20 Pro</b></i> lidar secondary development. Reproduce Lightning-LM as an example. Also supports <b><i>Lite3 EDU</b/></i>.
     </td>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/lightning-lm-deep-robotics/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/lightning-lm-deep-robotics?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/lightning-lm-deep-robotics/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/lightning-lm-deep-robotics?style=flat&label=open&cacheSeconds=86400"></a></td>
@@ -179,7 +179,7 @@ Visit our new [Developer Center](https://developer.deeprobotics.cn/) to get star
   <tr aria-hidden="true"></tr>
   <tr>
     <td align="left"><a href="https://github.com/DeepRoboticsLab/sdk_deploy"> SDK Deploy </a></td>
-    <td> RL sim-to-sim and sim-to-real code for DEEP Robotics robots. Currently supporting <b><i>M20/M20 Pro</b></i> and <b><i>Lite3 Venture</b></i>. ROS2 Version.
+    <td> RL sim-to-sim and sim-to-real code for DEEP Robotics robots. Currently supporting <b><i>M20/M20 Pro</b></i>/<b><i>M20S</b></i>, <b><i>S10</b></i> and <b><i>Lite3 Venture</b></i>. ROS2 Version.
     </td>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/sdk_deploy/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/sdk_deploy?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/sdk_deploy/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/sdk_deploy?style=flat&label=open&cacheSeconds=86400"></a></td>
@@ -205,6 +205,16 @@ Visit our new [Developer Center](https://developer.deeprobotics.cn/) to get star
     <td align="center"><a href="https://github.com/DeepRoboticsLab/station-openapi-devkit/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/station-openapi-devkit?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/station-openapi-devkit/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/station-openapi-devkit?style=flat&label=open&cacheSeconds=86400"></a></td>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/station-openapi-devkit/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/station-openapi-devkit?style=flat&label=open&cacheSeconds=86400"></a></td>
+  </tr>
+
+  <tr aria-hidden="true"></tr>
+  <tr>
+    <td align="left"> Open Source </td>
+    <td align="left"><a href="https://github.com/DeepRoboticsLab/deep-research"> deep-research </a></td>
+    <td> Community research and secondary development built on DEEP Robotics products. </td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-research/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/deep-research?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-research/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/deep-research?style=flat&label=open&cacheSeconds=86400"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-research/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/deep-research?style=flat&label=open&cacheSeconds=86400"></a></td>
   </tr>
 
 </table>
