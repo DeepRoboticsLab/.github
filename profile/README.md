@@ -101,13 +101,23 @@ Visit our new [Developer Center](https://developer.deeprobotics.cn/) to get star
 
   <tr aria-hidden="true"></tr>
   <tr>
-    <td align="left"> Manipulation </td>
+    <td align="left" rowspan="3" valign="middle"> Manipulation </td>
     <td align="left"><a href="https://github.com/DeepRoboticsLab/deep-robotics-teleoperate"> Deep Robotics Teleoperate </a></td>
     <td> ROS 2 teleoperation package for controlling the <b><i>DR02 Pro</b></i> with PICO headsets and controllers.
     </td>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-teleoperate/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/deep-robotics-teleoperate?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-teleoperate/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/deep-robotics-teleoperate?style=flat&label=open&cacheSeconds=86400"></a></td>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-teleoperate/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/deep-robotics-teleoperate?style=flat&label=open&cacheSeconds=86400"></a></td>
+  </tr>
+
+  <tr aria-hidden="true"></tr>
+  <tr>
+    <td align="left"><a href="https://github.com/DeepRoboticsLab/s10-piper-sdk"> S10 Piper SDK </a></td>
+    <td> RL sim-to-sim and sim-to-real deployment for coordinated locomotion and manipulation with <b><i>S10</i></b> and a <b><i>Piper</i></b> arm, including keyboard and PICO VR control.
+    </td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/s10-piper-sdk/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/s10-piper-sdk?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/s10-piper-sdk/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/s10-piper-sdk?style=flat&label=open&cacheSeconds=86400"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/s10-piper-sdk/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/s10-piper-sdk?style=flat&label=open&cacheSeconds=86400"></a></td>
   </tr>
 
   <tr aria-hidden="true"></tr>
