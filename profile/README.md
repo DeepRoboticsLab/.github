@@ -59,7 +59,7 @@ Visit our new [Developer Center](https://developer.deeprobotics.cn/) to get star
 
   <tr aria-hidden="true"></tr>
   <tr>
-    <td align="left" rowspan="7" valign="middle"> Locomotion </td>
+    <td align="left" rowspan="5" valign="middle"> Locomotion </td>
     <td align="left"><a href="https://github.com/DeepRoboticsLab/rl_training"> RL Training </a></td>
     <td> A Learning-based locomotion controller for Deep Robotics robots. 
     <br> Currently supporting <b><i>Lite3</b></i>, <b><i>DR02</b></i>, <b><i>M20</b></i>, <b><i>M20S</b></i> and <b><i>S10</b></i>.
@@ -69,16 +69,6 @@ Visit our new [Developer Center](https://developer.deeprobotics.cn/) to get star
     <td align="center"><a href="https://github.com/DeepRoboticsLab/rl_training/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/rl_training?style=flat&label=open&cacheSeconds=86400"></a></td>
   </tr>
   
-  <tr aria-hidden="true"></tr>
-  <tr>
-    <td align="left"><a href="https://github.com/DeepRoboticsLab/deep-robotics-simulation"> Deep Robotics Simulation </a></td>
-    <td> MuJoCo-based simulation environments for Deep Robotics products. Currently supporting <b><i>DR02 Pro</b></i>.
-    </td>
-    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-simulation/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/deep-robotics-simulation?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
-    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-simulation/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/deep-robotics-simulation?style=flat&label=open&cacheSeconds=86400"></a></td>
-    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-simulation/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/deep-robotics-simulation?style=flat&label=open&cacheSeconds=86400"></a></td>
-  </tr>
-
   <tr aria-hidden="true"></tr>
   <tr>
     <td align="left"><a href="https://github.com/DeepRoboticsLab/deep-robotics-retarget"> Deep Robotics Retarget </a></td>
@@ -177,7 +167,7 @@ Visit our new [Developer Center](https://developer.deeprobotics.cn/) to get star
 
   <tr aria-hidden="true"></tr>
   <tr>
-    <td align="left" rowspan="5" valign="middle"> Algorithm SDK </td>
+    <td align="left" rowspan="7" valign="middle"> Algorithm SDK </td>
     <td align="left"><a href="https://github.com/DeepRoboticsLab/Lite3_rl_deploy"> Lite3 RL Deploy </a></td>
     <td> RL sim-to-sim and sim-to-real code for <b><i>Lite3</b></i>. UDP Version.
     </td>
@@ -204,6 +194,16 @@ Visit our new [Developer Center](https://developer.deeprobotics.cn/) to get star
     <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-sdk2/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/deep-robotics-sdk2?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-sdk2/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/deep-robotics-sdk2?style=flat&label=open&cacheSeconds=86400"></a></td>
     <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-sdk2/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/deep-robotics-sdk2?style=flat&label=open&cacheSeconds=86400"></a></td>
+  </tr>
+
+  <tr aria-hidden="true"></tr>
+  <tr>
+    <td align="left"><a href="https://github.com/DeepRoboticsLab/deep-robotics-simulation"> Deep Robotics Simulation </a></td>
+    <td> MuJoCo-based simulation environments for Deep Robotics products. Currently supporting <b><i>DR02 Pro</b></i>.
+    </td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-simulation/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DeepRoboticsLab/deep-robotics-simulation?style=flat&label=%E2%98%85&cacheSeconds=86400"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-simulation/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DeepRoboticsLab/deep-robotics-simulation?style=flat&label=open&cacheSeconds=86400"></a></td>
+    <td align="center"><a href="https://github.com/DeepRoboticsLab/deep-robotics-simulation/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/DeepRoboticsLab/deep-robotics-simulation?style=flat&label=open&cacheSeconds=86400"></a></td>
   </tr>
 
   <tr aria-hidden="true"></tr>
